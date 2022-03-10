@@ -5,4 +5,4 @@ Example of how to continuously deploy a CV written in LaTeX to a personal websit
 * [erikw/cvcd-website](https://github.com/erikw/cvcd-website) - Personal website (GitHub pages hosted Jekyll) to where the `cv.pdf` is deployed to.
 
 # The website
-The website can be viewed at https://erikw.github.io/cvcd-website/ and the `cv.pdf` is accessible at https://erikw.github.io/cvcd-website/assets/cv.pdf.
+The website can be viewed at https://erikw.github.io/cvcd-website/ and the `cv.pdf` is accessible at https://erikw.github.io/cvcd-website/cv.pdf.
